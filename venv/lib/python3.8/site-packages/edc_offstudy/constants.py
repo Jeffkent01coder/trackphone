@@ -1,0 +1,5 @@
+CONSENT_WITHDRAWAL = "consent_withdrawal"
+END_OF_STUDY_ACTION = "submit_end_of_study"
+LATE_EXCLUSION = "late_exclusion"
+OTHER_RX_DISCONTINUATION = "other_treatment_discontinuation"
+WITHDRAWAL = "withdrawal"
